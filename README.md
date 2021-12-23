@@ -10,17 +10,17 @@ I am interested in application development and new technologies.
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html&logoColor=ffffff&labelColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)
 <br>
-<!--Skills:
+--Skills:
 - C/C++, Python
 - JavaScript, HTML, CSS
-- Basic Android App Dev.
 - Linux, REST API
 - Data Structures & Algorithm
-- Competitive Programming-->
+- Competitive Programming
 
 🧐 **Knowledge of:**<br>
-`Object-Oriented Programming`, `Data structures and algorithms`, `Competative Programming`
+`Object-Oriented Programming`,<br> `Data structures and algorithms`,<br> `Competative Programming`
 <br>
 
 🌐 **Connect with me:**<br>
