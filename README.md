@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Manoj Bahadur
 
-I am interested in application development and new technologies.
-
+I am interested in application development and Data Science.<br>
+:bowtie:<b>Philomath</b> 
 
 💻 **Languages and Tools:** 🛠️<br>
 
