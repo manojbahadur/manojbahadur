@@ -8,19 +8,16 @@ I am interested in application development and Data Science.<br>
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html&logoColor=ffffff&labelColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css&logoColor=ffffff&labelColor=1572B6) 
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css&logoColor=ffffff&labelColor=1572B6)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=css&logoColor=ffffff&labelColor=1572B6)
+![Python](https://img.shields.io/badge/-PYTHON-000000?style=flat&logo=css&logoColor=ffffff&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)
 <br>
---Skills:
-- C/C++, Python
-- JavaScript, HTML, CSS
-- Linux, REST API
-- Data Structures & Algorithm
-- Competitive Programming
+
 
 🧐 **Knowledge of:**<br>
-`Object-Oriented Programming`,<br> `Data structures and algorithms`,<br> `Competative Programming`
+`Object-Oriented Programming`<br> `Data structures and algorithms`<br> `Competative Programming`<br>`Linux`<br>`REST API`
 <br>
 
 🌐 **Connect with me:**<br>
