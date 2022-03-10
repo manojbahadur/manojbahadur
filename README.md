@@ -26,6 +26,6 @@ I am interested in application development and Data Science.<br>
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=amritesh19" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=manojbahadur" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif" />
 </p>
