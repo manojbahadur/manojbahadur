@@ -13,6 +13,7 @@ I am interested in application development and Data Science.<br>
 ![Python](https://img.shields.io/badge/-PYTHON-000000?style=flat&logo=css&logoColor=ffffff&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-092E20?style=flat&logo=flask&logoColor=green)
 <br>
 
 
