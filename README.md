@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Manoj Bahadur
 
-I am interested in application development and Data Science.<br>
+Software Developer, Machine Learning, Data Science.<br>
 :bowtie:
 
 💻 **Languages and Tools:** 🛠️<br>
