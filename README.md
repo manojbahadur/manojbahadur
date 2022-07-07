@@ -23,7 +23,7 @@ Software Developer, Machine Learning, Data Science.<br>
 
 🌐 **Connect with me:**<br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/manojbahadur//) &nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manojbahadur) &nbsp;&nbsp;
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
