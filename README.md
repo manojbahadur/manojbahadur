@@ -18,13 +18,15 @@ Software Developer, Machine Learning, Data Science.<br>
 <br>
 
 
-🧐 **Knowledge of:**<br>
+🧐 **Interests:**<br>
 `Object-Oriented Programming`<br> `Data structures and algorithms`<br> `Competative Programming`<br>`Linux`<br>`REST API`
 <br>
 
 🌐 **Connect with me:**<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manojbahadur) &nbsp;&nbsp;
+
+If you read all this... thank you c:
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
