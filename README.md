@@ -1,4 +1,5 @@
-### Hi there 👋, I am Manoj Bahadur
+
+### Hello! You're visitor number <img src="https://visitor-badge.glitch.me/badge?page_id=TacoTheDank.visitor-badge&color=d391e2" />. Thanks for checking me out, even if you didn't mean to :)
 
 Software Developer, Machine Learning, Data Science.<br>
 :bowtie:
